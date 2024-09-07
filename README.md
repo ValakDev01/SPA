@@ -1,8 +1,9 @@
-# React + Vite
+# Single Page App Project 💥
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<br />
 
-Currently, two official plugins are available:
+## Description 💬
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This React application leverages React Router to manage navigation between different pages. It features a main landing page, a product details page, a pricing information page, and a login page. If users navigate to a non-existent route, they are redirected to a "Page Not Found" page. The application ensures smooth client-side routing, enhancing user experience by allowing seamless transitions between various sections of the app.
+
+<img width="1512" alt="Screenshot 2024-09-07 at 12 36 06" src="https://github.com/user-attachments/assets/ed3697a8-6ed6-43eb-bc0a-1a446683b330">
